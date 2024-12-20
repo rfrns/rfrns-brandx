@@ -2,7 +2,7 @@
 @edx/brand-edx.org
 ==================
 
-This project contains branding assets and themes for edx.org. It is the edX implementation of the branding interface defined in `@edx/brand-openedx <https://git@github.com/edx/brand-openedx>`_. Note that we aim to avoid introducing any breaking changes.
+This project contains branding assets and themes for rfrns.com It is the edX implementation of the branding interface defined in `@edx/brand-openedx <https://git@github.com/edx/brand-openedx>`_. Note that we aim to avoid introducing any breaking changes.
 
 -----
 Usage
