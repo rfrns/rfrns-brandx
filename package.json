@@ -1,7 +1,7 @@
 {
   "name": "@rfrns/brand-rfrns",
   "version": "1.0.0",
-  "description": "A package containing brand elements and SASS themes for rfrns.com",
+  "description": "Custom brand package for rfrns.com",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rfrns/rfrns-brandx.git"
@@ -12,7 +12,7 @@
     "url": "https://github.com/rfrns/rfrns-brandx/issues"
   },
   "homepage": "https://github.com/rfrns/rfrns-brandx#readme",
-  "publishConfig": {
-    "access": "public"
+  "dependencies": {
+    "@edx/brand-openedx": "^1.0.0"
   }
 }
