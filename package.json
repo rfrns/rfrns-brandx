@@ -11,8 +11,5 @@
   "bugs": {
     "url": "https://github.com/rfrns/rfrns-brandx/issues"
   },
-  "homepage": "https://github.com/rfrns/rfrns-brandx#readme",
-  "dependencies": {
-    "@edx/brand-openedx": "^1.0.0"
-  }
+  "homepage": "https://github.com/rfrns/rfrns-brandx#readme"
 }
